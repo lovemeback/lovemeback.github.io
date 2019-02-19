@@ -10,14 +10,12 @@
 	</compatibility>
 	<descriptionlist>
 		<description>
-      <li>
-        <p>
-          We all know that iPhone at Japan and Korean region <strong>can not turn off</strong> camera shutter sound even on vibration mode.
-        </p>
-        <p>
+          <b>We all know that iPhone at Japan and Korean region can not turn off camera shutter sound even on vibration mode.
+       </b>
+        <b>
           This tweak can disable that to make iPhone at Japan and Korean region just like the other region.
-        </p>
-      </li></description>
+        </b>
+      </description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
