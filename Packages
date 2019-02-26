@@ -14,3 +14,67 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.fixshuttersound
 Name: Fix Shutter Sound J/A KH/A
 
+Package: com.xsf1re.nhcokbankbypass
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.nhcokbankbypass_0.0.1-1+debug.deb
+Size: 3808
+MD5sum: d7617b805c1cb38afeb7be7dbf759b57
+SHA1: be43b51da31a0715fc4b315a3d72c62088745527
+SHA256: a95c330f3579327c18fcf2d68e07f625796e9bbbff1228140cc775f96d5b9d6b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XsF1re
+Name: NHCokBankBypass
+
+Package: com.xsf1re.nhpushbypass
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.nhpushbypass_1.0-1.deb
+Size: 5754
+MD5sum: 90612b1efdd5a51756fcb0c268d1f527
+SHA1: ff96adaea7a44f454d03ba642584871168a12634
+SHA256: c88868c41f9b27d8b47dc6b2f2187f4155ad193b13baf42ae66b51e765765926
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XsF1re
+Name: NHPushBypass
+
+Package: com.xsf1re.wooribankbypass
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.wooribankbypass_1.0-1.deb
+Size: 4924
+MD5sum: aa1dab62fd389b61faefa335da067170
+SHA1: 843f539559e300551c9db17e8324f6ea2b6ceb7d
+SHA256: 6521a25648ff789c5b1cb722835b9bf4f5200a74c901ae3335b1df2f6c037676
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XsF1re
+Name: WooriBankBypass
+
+Package: com.xsf1re.wooripushbypass
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.wooripushbypass_0.0.1-1+debug.deb
+Size: 6082
+MD5sum: 18a8128d3f74dcf45d73ebc47a7da9e0
+SHA1: 63d5b19f39605847ac9f1a33bb8fdd568b5a2baa
+SHA256: 7d67fbd2a5a811229ecfd6993205beaf3027848cb3da14324864d665fd10dc38
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XsF1re
+Name: WooriPushBypass
+
