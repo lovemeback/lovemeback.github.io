@@ -72,13 +72,13 @@ Maintainer: LMB <tocuong.kr@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.lmb.wooripushbypass_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8436
-MD5sum: 5464105c85b26f89ebf9c19d7a74406b
-SHA1: ac612567e91736b59da7f757c8ba04170b29e673
-SHA256: e073d6e687d5802f1669202418989db862ece4314a8d644f808500ee2528350e
+Size: 8438
+MD5sum: d737139954a52550ff608ba4c7980a47
+SHA1: 150c0f955f0c91213a788a6464f15fddffd44a7e
+SHA256: 04e1536212e76da05d601ed15983cdbf4151a25ffbafe65202a88eaf31a539aa
 Section: Bypass Jailbreak Detection
 Description: Bypass Jailbreak Detection for WooriPushBypass
 Author: XsF1re
-Https: //lovemeback.github.io/depictions/?p=com.lmb.wooripushbypass
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.wooripushbypass
 Name: WooriPushBypass
 
