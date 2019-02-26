@@ -14,67 +14,71 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.fixshuttersound
 Name: Fix Shutter Sound J/A KH/A
 
-Package: com.xsf1re.nhcokbankbypass
+Package: com.lmb.nhcokbankbypass
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
-Maintainer: XsF1re
+Maintainer: LMB <tocuong.kr@gmail.com>
 Installed-Size: 117
 Depends: mobilesubstrate
-Filename: ./debs/com.xsf1re.nhcokbankbypass_0.0.1-1+debug.deb
-Size: 3808
-MD5sum: d7617b805c1cb38afeb7be7dbf759b57
-SHA1: be43b51da31a0715fc4b315a3d72c62088745527
-SHA256: a95c330f3579327c18fcf2d68e07f625796e9bbbff1228140cc775f96d5b9d6b
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.lmb.nhcokbankbypass_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5128
+MD5sum: ec9a7fde6e66fd080bce11b5bbdab1d5
+SHA1: 168e5ee6fafd3ee1b2ef357e59976f04acbf571a
+SHA256: f5b4f9bbc230b944b3f9f105a5c85ed16aaf19186ea75d372dc9efd9c7226dfb
+Section: Bypass Jailbreak Detection
+Description: Bypass Jailbreak Detection for NHCokBankBypass
 Author: XsF1re
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.nhcokbankbypass
 Name: NHCokBankBypass
 
-Package: com.xsf1re.nhpushbypass
+Package: com.lmb.nhpushbypass
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: XsF1re
+Maintainer: LMB <tocuong.kr@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xsf1re.nhpushbypass_1.0-1.deb
-Size: 5754
-MD5sum: 90612b1efdd5a51756fcb0c268d1f527
-SHA1: ff96adaea7a44f454d03ba642584871168a12634
-SHA256: c88868c41f9b27d8b47dc6b2f2187f4155ad193b13baf42ae66b51e765765926
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.lmb.nhpushbypass_1.0-1_iphoneos-arm.deb
+Size: 7992
+MD5sum: 18f0d727f9c8b65b23c7dca1773be830
+SHA1: 7ac501fddf4a0c913c0761c8105387c1079659cf
+SHA256: 589581f47644225d295bf8a2e073c25c43602e155ae01b878d60399aee9501fc
+Section: Bypass Jailbreak Detection
+Description: Bypass Jailbreak Detection for NHPushBypass
 Author: XsF1re
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.nhpushbypass
 Name: NHPushBypass
 
-Package: com.xsf1re.wooribankbypass
+Package: com.lmb.wooribankbypass
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: XsF1re
+Maintainer: LMB <tocuong.kr@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xsf1re.wooribankbypass_1.0-1.deb
-Size: 4924
-MD5sum: aa1dab62fd389b61faefa335da067170
-SHA1: 843f539559e300551c9db17e8324f6ea2b6ceb7d
-SHA256: 6521a25648ff789c5b1cb722835b9bf4f5200a74c901ae3335b1df2f6c037676
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.lmb.wooribankbypass_1.0-1_iphoneos-arm.deb
+Size: 6804
+MD5sum: 3b9220610ef6cc77821c1728b64fc89b
+SHA1: d104363be18a840d3999b0d83a013da9aa9ccd1d
+SHA256: 509a8fd83b8bc64f1aa9c6b4c117022d7b34449643e0132fe472b868d19610d1
+Section: Bypass Jailbreak Detection
+Description: Bypass Jailbreak Detection for WooriBankBypass
 Author: XsF1re
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.wooribankbypass
 Name: WooriBankBypass
 
-Package: com.xsf1re.wooripushbypass
+Package: com.lmb.wooripushbypass
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
-Maintainer: XsF1re
+Maintainer: LMB <tocuong.kr@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.xsf1re.wooripushbypass_0.0.1-1+debug.deb
-Size: 6082
-MD5sum: 18a8128d3f74dcf45d73ebc47a7da9e0
-SHA1: 63d5b19f39605847ac9f1a33bb8fdd568b5a2baa
-SHA256: 7d67fbd2a5a811229ecfd6993205beaf3027848cb3da14324864d665fd10dc38
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/com.lmb.wooripushbypass_0.0.1-1+debug_iphoneos-arm.deb
+Size: 8436
+MD5sum: 5464105c85b26f89ebf9c19d7a74406b
+SHA1: ac612567e91736b59da7f757c8ba04170b29e673
+SHA256: e073d6e687d5802f1669202418989db862ece4314a8d644f808500ee2528350e
+Section: Bypass Jailbreak Detection
+Description: Bypass Jailbreak Detection for WooriPushBypass
 Author: XsF1re
+Https: //lovemeback.github.io/depictions/?p=com.lmb.wooripushbypass
 Name: WooriPushBypass
 
