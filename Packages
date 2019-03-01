@@ -82,3 +82,20 @@ Author: XsF1re
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.wooripushbypass
 Name: WooriPushBypass
 
+Package: com.lmb.veexillum
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Installed-Size: 35430
+Depends: winterboard
+Filename: ./debs/com.lmb.veexillum_2.7_iphoneos-arm.deb
+Size: 12839346
+MD5sum: 5427caa868a1680ef56e4a43d4024c99
+SHA1: 2898fb27543de16c67636e4211ed230676e91f17
+SHA256: 82646444212cc2575a23261b590b532ecb9cd5e016d37bb8f69ff76c0ffb33a5
+Section: Themes (SpringBoard)
+Description: True Simplicity
+Author: veerklempt <veerklempt@gmail.com>
+Name: Veexillum
+
+
