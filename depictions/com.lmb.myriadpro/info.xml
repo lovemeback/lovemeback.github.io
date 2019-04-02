@@ -1,0 +1,19 @@
+<package>
+	<id>com.lmb.myriadpro</id>
+	<name>Myriad Pro</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>
+          <b>An beautiful system font for iPhone/iPad
+       </b></description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
