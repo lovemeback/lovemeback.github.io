@@ -3,7 +3,7 @@
 	"package": "com.lmb.fixshuttersound",
 	"author": "LMB",
 	"version": "1.0",
-	"description": "<div>We all know that iPhone at Japan and Korean region can not turn off camera shutter sound even on vibration mode.<br><br>This tweak can disable that to make iPhone at Japan and Korean region just like the other region.</div>",
+	"description": "<div>We all know that iPhone at Japan and Korean region can not turn off camera shutter sound even on vibration mode<br><br>This tweak can disable that to make iPhone at Japan and Korean region just like the other region</div>",
 	"dependency": "N/A",
   	"minOSVersion": "6.0",
   	"maxOSVersion": "12.1.2",
