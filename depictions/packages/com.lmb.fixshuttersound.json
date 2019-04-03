@@ -3,16 +3,16 @@
 	"package": "com.lmb.fixshuttersound",
 	"author": "LMB",
 	"version": "1.0",
-	"description": "<div>Title say all what you need to know</div>",
 	"dependency": "N/A",
-  	"minOSVersion": "6.0",
-  	"maxOSVersion": "12.1.2",
-  	"otheriOS": "untested",
-	"changelog": {
-		"1.0": [
-			"Initial release"
-		],
-		},
+	"minOSVersion": "11.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>Fix Shutter Sound on iPhone J/A and KH/A</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
 	"screenshots": {
 		"1.png": ""
 	},
