@@ -7,7 +7,7 @@
 	"minOSVersion": "11.0",
 	"maxOSVersion": "12.1.2",
 	"otheriOS": "untested",
-	"description": "<div>Beautiful system font</div>",
+	"description": "<div>A beautiful system font</div>",
   	"changelog": {
 	    "1.0": [
 	      "Initial release"
