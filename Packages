@@ -31,5 +31,23 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.myriadpro
 Name: Myriad Pro
 
+Package: com.lmb.ariaelevation
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Installed-Size: 19456
+Depends: mobilesubstrate
+Filename: ./debs/com.lmb.ariaelevation_1.0_iphoneos-arm.deb
+Size: 24899824
+MD5sum: aa43992d3b48c97beed6d0c29cfb5c90
+SHA1: 52095420f6a2b67191a805c6c080ffd167349d95
+SHA256: e488ba53dfb624a204435db81926c8e60731b1e9eead1f3d8cd6b2aa3fceda0e
+Section: Fonts
+Description: Arita Elevation System font
+Author: LMB <tocuong.kr@gmail.com>
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.ariaelevation
+Name: Arita Elevation
+
+
 
 
