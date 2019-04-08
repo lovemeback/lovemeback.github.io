@@ -48,6 +48,22 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.ariaelevation
 Name: Arita Elevation
 
+Package: com.lmb.sfcompactrounded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Installed-Size: 23962
+Depends: mobilesubstrate
+Filename: ./debs/com.lmb.sfcompactrounded_1.0_iphoneos-arm.deb
+Size: 10033870
+MD5sum: 376684771f2c9ab65b3972dcd7cf2b64
+SHA1: 9d48a9d9d78fce66bbf6229e2a74b0722d13a817
+SHA256: 98f48a4e2a386f1b002bd5b7c2ac42cc85d9c3d1a1c1f05b8d608925a1a20a2b
+Section: Fonts
+Description: SF Compact Rounded System font
+Author: LMB <tocuong.kr@gmail.com>
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.sfcompactrounded
+Name: SF Compact Rounded
 
 
 
