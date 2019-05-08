@@ -65,5 +65,21 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.sfcompactrounded
 Name: SF Compact Rounded
 
+Package: com.lmb.cera
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.lmb.cera_1.0_iphoneos-arm.deb
+Size: 16192338
+MD5sum: f07f43c24763e8322b367f3531649dab
+SHA1: f851a347165fd132816720585edcc9cc7f8de795
+SHA256: a89a72c21ae88615062ae1e80a20f55ae1f9bb9dcd571a889e0391dc4ec22f53
+Section: Fonts
+Description: Cera System font
+Author: LMB <tocuong.kr@gmail.com>
+Name: Cera
+
+
 
 
