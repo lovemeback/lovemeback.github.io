@@ -14,72 +14,22 @@ Author: LMB <tocuong.kr@gmail.com>
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.fixshuttersound
 Name: Fix Shutter Sound J/A KH/A
 
-Package: com.lmb.myriadpro
+Package: com.lmb.exo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: LMB <tocuong.kr@gmail.com>
-Installed-Size: 20378
+Installed-Size: 25088
 Depends: mobilesubstrate
-Filename: ./debs/com.lmb.myriadpro_1.0_iphoneos-arm.deb
-Size: 10820458
-MD5sum: 67c582999e9d0eed481640689b5bba78
-SHA1: 0d9aea1e74d679866cf6c771d23f85d5092bbc87
-SHA256: 26501fca8c6570e79e6c69f38796cb3b2c3afd9dcef4a15b7d8eef3a24609ebd
+Filename: ./debs/com.lmb.exo_1.0_iphoneos-arm.deb
+Size: 10034176
+MD5sum: 53060b1ab2e15fbdee2124d285fc90ed
+SHA1: b2461e3e57b260c44d21772e994c0d17ca6686cf
+SHA256: 6215b38e72d38ffb415553642593a5a1d1b7ce27e110401d5399746c6e5c3347
 Section: Fonts
-Description: System font
-Author: LMB <tocuong.kr@gmail.com>
-Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.myriadpro
-Name: Myriad Pro
-
-Package: com.lmb.ariaelevation
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: LMB <tocuong.kr@gmail.com>
-Installed-Size: 19456
-Depends: mobilesubstrate
-Filename: ./debs/com.lmb.ariaelevation_1.0_iphoneos-arm.deb
-Size: 24899824
-MD5sum: aa43992d3b48c97beed6d0c29cfb5c90
-SHA1: 52095420f6a2b67191a805c6c080ffd167349d95
-SHA256: e488ba53dfb624a204435db81926c8e60731b1e9eead1f3d8cd6b2aa3fceda0e
-Section: Fonts
-Description: Arita Elevation System font
-Author: LMB <tocuong.kr@gmail.com>
-Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.ariaelevation
-Name: Arita Elevation
-
-Package: com.lmb.sfcompactrounded
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: LMB <tocuong.kr@gmail.com>
-Installed-Size: 23962
-Depends: mobilesubstrate
-Filename: ./debs/com.lmb.sfcompactrounded_1.0_iphoneos-arm.deb
-Size: 10033870
-MD5sum: 376684771f2c9ab65b3972dcd7cf2b64
-SHA1: 9d48a9d9d78fce66bbf6229e2a74b0722d13a817
-SHA256: 98f48a4e2a386f1b002bd5b7c2ac42cc85d9c3d1a1c1f05b8d608925a1a20a2b
-Section: Fonts
-Description: SF Compact Rounded System font
-Author: LMB <tocuong.kr@gmail.com>
-Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.sfcompactrounded
-Name: SF Compact Rounded
-
-Package: com.lmb.cera
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: LMB <tocuong.kr@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.lmb.cera_1.0_iphoneos-arm.deb
-Size: 16192338
-MD5sum: f07f43c24763e8322b367f3531649dab
-SHA1: f851a347165fd132816720585edcc9cc7f8de795
-SHA256: a89a72c21ae88615062ae1e80a20f55ae1f9bb9dcd571a889e0391dc4ec22f53
-Section: Fonts
-Description: Cera System font
-Author: LMB <tocuong.kr@gmail.com>
-Name: Cera
-
+Description: Exo System font
+Author: Alexman
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.exo
+Name: Exo
 
 
 

@@ -1,0 +1,20 @@
+{
+	"name": "Exo",
+	"package": "com.lmb.exo",
+	"author": "Alexman",
+	"version": "1.0",
+	"dependency": "N/A",
+	"minOSVersion": "11.0",
+	"maxOSVersion": "12.1.2",
+	"otheriOS": "untested",
+	"description": "<div>A beautiful system font</div>",
+  	"changelog": {
+	    "1.0": [
+	      "Initial release"
+	    ]
+  	},
+	"screenshots": {
+		"1.jpeg": ""
+	},
+	"links": {}
+}
