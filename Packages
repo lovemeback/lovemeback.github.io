@@ -18,18 +18,19 @@ Package: com.lmb.exo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: LMB <tocuong.kr@gmail.com>
-Installed-Size: 25088
+Installed-Size: 18023
 Depends: mobilesubstrate
 Filename: ./debs/com.lmb.exo_1.0_iphoneos-arm.deb
-Size: 10034176
-MD5sum: 53060b1ab2e15fbdee2124d285fc90ed
-SHA1: b2461e3e57b260c44d21772e994c0d17ca6686cf
-SHA256: 6215b38e72d38ffb415553642593a5a1d1b7ce27e110401d5399746c6e5c3347
+Size: 11011616
+MD5sum: 6d89232a2676aa4f988ef95577757776
+SHA1: a2c15b687ad1e536c52b822c848a67bce9aa344c
+SHA256: f80a6ddb0c946b3718d2fdb46d378fedf3c7e73aa776a42457ab3f1c0ce4ed81
 Section: Fonts
 Description: Exo System font
 Author: Alexman
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.exo
 Name: Exo
+
 
 
 
