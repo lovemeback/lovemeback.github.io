@@ -31,6 +31,23 @@ Author: Alexman
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.exo
 Name: Exo
 
+Package: com.lmb.unineue
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Installed-Size: 25805
+Depends: mobilesubstrate
+Filename: ./debs/com.lmb.unineue_1.0_iphoneos-arm.deb
+Size: 10485886
+MD5sum: e2f2c630b5f8578ffb503a9112794fc8
+SHA1: cffa3aa0ca933a6d3e142d75caeb6f91b2ff95d4
+SHA256: 6e1b14a9c990e4baf9694180fcb0b96f8d807a3a06598323eeb956ef5c31d94c
+Section: Fonts
+Description: Uni Neue System font
+Author: Evelyn
+Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.unineue
+Name: Uni Neue
+
 
 
 
