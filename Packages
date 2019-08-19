@@ -48,6 +48,22 @@ Author: Evelyn
 Depiction: https://lovemeback.github.io/depictions/?p=com.lmb.unineue
 Name: Uni Neue
 
+Package: com.lmb.lovemeback
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: LMB <tocuong.kr@gmail.com>
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.lmb.lovemeback_2.0_iphoneos-arm.deb
+Size: 24292
+MD5sum: 803812585aa8cccbf24c4f377fe80048
+SHA1: a29e25865753491ce1648af6b47e5f782824e935
+SHA256: 6fddc4bf5c5bc2aa59972794579a8729a33702c571def3fdfbdf69639e110d16
+Section: Tweaks
+Description: Essential toolbox for Youtube app
+Author: Justin Petkovic
+Name: Youtube Tools
+
 
 
 
